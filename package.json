@@ -1,0 +1,24 @@
+{
+  "name": "clrs",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "jest": "^17.0.3",
+    "jest-cli": "^17.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soonlive/CLRS.git"
+  },
+  "author": "sean xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soonlive/CLRS/issues"
+  },
+  "homepage": "https://github.com/soonlive/CLRS#readme"
+}
